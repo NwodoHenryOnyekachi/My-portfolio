@@ -1,0 +1,8 @@
+.App{
+    overflow-x: clip;
+    position: relative;
+}
+
+.navbar{
+    z-index: 2000;
+}
